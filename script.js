@@ -1,4 +1,5 @@
 window.addEventListener('load', start);
+console.log(aaaa);
 
 function start() {
     function refreshText() {
