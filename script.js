@@ -2,7 +2,7 @@ window.addEventListener('load', start);
 
 function refreshText() {
   let i = 0;
-  while (i < 2) {
+  while (i < 3) {
     label[i].value = arrayRgb[i].value;
     i++;
   }
