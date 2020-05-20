@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: max-content;
+}
+
+.color-box {
+  margin-top: 2rem;
+  width: 10rem;
+  height: 10rem;
+  background-color: rgb(125, 125, 125);
+}
